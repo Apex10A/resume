@@ -14,10 +14,10 @@ const Metaverse = () => {
 </div>
 
 <div className='lg:ml-10'>
-    <h1 className='lg:text-2xl text-lg font-extrabold lg:mr-5 pt-3 lg:pt-0 pb-1 lg:pb-3'>Restaurant Website</h1>
-    <p className='uppercase lg:pb-4 pb-3 font-bold text-xs md:text-sm' id='lang'>Bootstrap + HTML</p>
+    <h1 className='lg:text-2xl text-lg font-extrabold lg:mr-5 pt-3 lg:pt-0 pb-1 lg:pb-3'>Metaverse Website</h1>
+    <p className='uppercase lg:pb-4 pb-3 font-bold text-xs md:text-sm' id='lang'>HTML + CSS + JS</p>
 
-    <h3 className='text-sm' id='opaques'>Experience culinary perfection at FOODS. Discover delectable flavors, elegant ambiance, and impeccable service. Indulge your senses today.</h3>
+    <h3 className='text-sm' id='opaques'>Embark on a visual journey into the metaverse. Our website offers a glimpse into a captivating virtual realm.</h3>
 
     <div className='flex gap-10 pt-5'>
               <div className='flex' id='code'>

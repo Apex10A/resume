@@ -17,7 +17,7 @@ const University = () => {
     <h1 className='lg:text-2xl text-lg font-extrabold lg:mr-5 pt-3 lg:pt-0 pb-1 lg:pb-3'>University Website</h1>
     <p className='uppercase lg:pb-4 pb-3 font-bold text-xs md:text-sm' id='lang'>Bootstrap + CSS + JS </p>
 
-    <h3 className='text-sm' id='opaques'>Experience culinary perfection at FOODS. Discover delectable flavors, elegant ambiance, and impeccable service. Indulge your senses today.</h3>
+    <h3 className='text-sm' id='opaques'>Experience the essence of academia through our visually captivating university website. It showcases the institution's offerings, faculty, and campus facilities.</h3>
 
 
     <div className='flex gap-10 pt-5'>

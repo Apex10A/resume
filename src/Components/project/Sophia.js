@@ -14,7 +14,7 @@ const Sophia = () => {
 </div>
 <div className='lg:ml-10'>
     <h1 className='lg:text-2xl text-lg font-extrabold lg:mr-5 pt-3 lg:pt-0 pb-1 lg:pb-3'>Sophia Website</h1>
-    <p className='uppercase lg:pb-4 pb-3 font-bold text-xs md:text-sm' id='lang'>React + Tailwind + UI </p>
+    <p className='uppercase lg:pb-4 pb-3 font-bold text-xs md:text-sm' id='lang'>React + MUI</p>
 
     <h3 className='text-sm' id='opaques'>Instant airtime top-ups made easy. Experience the convenience of instant airtime refills anytime, anywhere. Discover a new level of convenience and stay connected with Sophia.</h3>
 

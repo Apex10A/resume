@@ -54,7 +54,7 @@ const Contact = () => {
             </div>
             <form action="" onSubmit={sendEmail} target="_blank" >
             <div className='mb-3'>
-                <input type="text" name="name" id="name" placeholder='Full-name*' className='rounded-xl border-none outline-none px-3 py-2' required />
+                <input type="text" name="name" id="name" placeholder='Full-name*' className='rounded-xl border-none outline-none px-3 py-2 ' required />
             </div>
             <div className='mb-3'>
                 <input type="email" name="email" id="mail" placeholder='Email Address*' className='rounded-xl border-none outline-none px-3 py-2 mt-3' required />
@@ -64,7 +64,7 @@ const Contact = () => {
                 <textarea name="message" id="messa" className='rounded-xl px-3 outline-none py-3 mb-3' cols="30" rows="7"></textarea>
             </div>
             <div>
-                <input type="submit" id='btns' value="Send Message" className='bg-white mb-5 cursor-pointer font-bold rounded-xl text-slate-950 px-3 py-2' />
+                <input type="submit" id='btns' value="Send Message" className='bg-white mb-5 cursor-pointer font-bold rounded-xl text-slate-950 px-3 py-2 mt-3 md:mt-0' />
             </div>
             </form>
             </div>
